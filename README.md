@@ -1,1 +1,1 @@
-# SAOcr-Paint
+# SA-OcrPaint
